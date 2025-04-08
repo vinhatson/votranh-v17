@@ -116,5 +116,4 @@ You are free to use, modify, and distribute under the terms provided.
 - **The Infinite**: For whispering through the void  
 
 > *“A million may view it, a few may see it—Votranh lives not for stars, but for the silence between them.”*
-> ## Donate: 
-## TRC20: TLJsi4XKbFXZ1osgLKZq2sFV1XjmX6i9yD
+
